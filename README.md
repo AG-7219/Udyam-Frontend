@@ -1,6 +1,44 @@
-# Getting Started with Create React App
+# Udyam Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository serves as the home for Udyam Frontend.
+
+
+## Setting up the project
+
+Follow the following steps to setup this project.
+
+**Note** - This project requires Nodejs(v.14.0+) and npm(v.5.2+), so make sure you have installed and updated them to their respective required versions before continuing.  
+
+
+### Fork this repository
+First of all, click on the top-right corner of this repository to fork it.
+
+
+### Create a local clone of your fork
+Then, clone your forked repository using this command:
+```
+git clone https://github.com/YOUR-USERNAME/Udyam-Frontend.git
+```
+
+Change your current directory to the repo's root.
+```
+cd Udyam-Frontend
+```
+
+
+### Run the server
+
+Install the dependencies using
+```
+npm i
+```
+
+Then you can finally run the server using this command.
+```
+npm start
+```
+
+Then you can go to `localhost:3000` in your browser, where your application will be running. Also make sure you keep the terminal running at all times for changes and automatic reloads to take place.
 
 ## Available Scripts
 
@@ -38,33 +76,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
