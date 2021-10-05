@@ -40,6 +40,10 @@ npm start
 
 Then you can go to `localhost:3000` in your browser, where your application will be running. Also make sure you keep the terminal running at all times for changes and automatic reloads to take place.
 
+## Contributing Guidelines
+
+Always pull the latest changes from the main branch before starting development. When you want to merge your changes, make a pull request and ask for review from Seniors and/or authorized persons. Dont push your changes directly even if you have write access to this repository. Resolve conflicts in case of merge conflicts. Happy hacking.
+
 ## Available Scripts
 
 In the project directory, you can run:
