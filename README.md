@@ -42,7 +42,7 @@ Then you can go to `localhost:3000` in your browser, where your application will
 
 ## Contributing Guidelines
 
-Always pull the latest changes from the main branch before starting development. When you want to merge your changes, make a pull request and ask for review from Seniors and/or authorized persons. Dont push your changes directly even if you have write access to this repository. Resolve conflicts in case of merge conflicts. Happy hacking.
+Always pull the latest changes from the main branch before starting development. When you want to merge your changes, make a pull request and ask for review from Seniors and/or authorized persons. Your pull request should contain a descriptive tilte and the description should be clear and concise. Dont push your changes directly even if you have write access to this repository. Resolve conflicts in case of merge conflicts. Happy hacking.
 
 ## Available Scripts
 
